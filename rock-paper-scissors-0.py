@@ -1,3 +1,8 @@
+#START GAME
+#The first part of the game involves setting it up, 
+#which means to instantiate the game itself and take the game to a point where it's waiting for the participants to act.
+
+
 class Participant:
     def __init__(self, name):
         self.name = name
