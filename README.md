@@ -1,4 +1,4 @@
-# mslearn-python-oo
+# ROCK PAPER SCISSORS
 
 I am learning Python on the Microsoft Learn site, and this game is an exercise from the OOP module.
 
